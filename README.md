@@ -1,9 +1,9 @@
 # 🚀 Coders of Bangalore — From Chaos to Intelligence
 
-![GitHub stars](https://img.shields.io/github/stars/Adikun2007/CodersofBangalore_Data-Science-Project-2?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/Adikun2007/CodersofBangalore_Data-Science-Project-2?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/Adikun2007/CodersofBangalore_Data-Science-Project-2?style=for-the-badge)
-![GitHub license](https://img.shields.io/github/license/Adikun2007/CodersofBangalore_Data-Science-Project-2?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/Adikun2007/CodersofBangalore_Data-Science-Project-2?style=for-the-badge&label=Stars)
+![Forks](https://img.shields.io/github/forks/Adikun2007/CodersofBangalore_Data-Science-Project-2?style=for-the-badge&label=Forks)
+![Issues](https://img.shields.io/github/issues/Adikun2007/CodersofBangalore_Data-Science-Project-2?style=for-the-badge&label=Issues)
+![License](https://img.shields.io/github/license/Adikun2007/CodersofBangalore_Data-Science-Project-2?style=for-the-badge&label=License)
 
 ![Python](https://img.shields.io/badge/Built%20With-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Data Science](https://img.shields.io/badge/Domain-Data%20Science-purple?style=for-the-badge)
