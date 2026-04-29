@@ -27,9 +27,16 @@
 ## 🛠️ Tech Stack
 - Python
 - JSON
+<<<<<<< HEAD
 - Data Analysis
 - Data Cleaning
 
+=======
+- Data Collection
+- Data Cleaning
+- Data Analysis
+  
+>>>>>>> 99aa02af53ffa67b683f5731009853f67922c87c
 ## 🎯 Outcome
 
 ### A complete pipeline that converts unstructured data into meaningful insights, showcasing core data science skills in data cleaning, parsing, and analysis.
