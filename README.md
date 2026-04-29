@@ -69,27 +69,27 @@ This project is a **data transformation and analysis pipeline** that:
 ### 🔥 User with Maximum Posts
 ```python
     {
-        "Maximum no of posts:" startuphub_blr
+        "Maximum no of posts" : startuphub_blr
     }
 ```
 
 ### 👑 User with Maximum Followers
 ```python
     {
-        "Maximum no of folowers:" _anujsinghal
+        "Maximum no of folowers" : _anujsinghal
     }
 ```
 
 ### 🔗 User Following the Most Accounts
 ```python
     {
-        "Maximum no of following:" bangalore_tech_bro
+        "Maximum no of following" : bangalore_tech_bro
     }
 ```
 ### 🔥How many categories (Digital creators, etc do we have?)
 ```python
     {
-        "Number of categories:" 34
+        "Number of categories" : 34
     }
 ```
 
