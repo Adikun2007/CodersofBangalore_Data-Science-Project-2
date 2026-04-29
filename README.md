@@ -75,20 +75,25 @@ This project is a **data transformation and analysis pipeline** that:
      'no_of_following': 120,
      'type_of_page': 'Media'
     }
-    
+```
+
 ### 👑 User with Maximum Follow
+```python
     {
      'user_name': '_anujsinghal',
      'no_of_followers': 681000,
      'type_of_page': 'Digital creator'
     }
+```
 
 ### 🔗 User Following the Most Accounts
+```python
     {
      'user_name': 'katiasales2220',
      'no_of_following': 1401
     }
-    
+```
+
 ## 📊 Insights Derived
 - High follower count does not always correlate with high posting activity
 - Media pages dominate in terms of content volume
@@ -101,12 +106,18 @@ This project is a **data transformation and analysis pipeline** that:
 - Data Cleaning Techniques — Handling real-world noise
 - Custom Parsing Logic — Transforming unstructured text
 
-##💡 Closing Note
+## 💡 Closing Note
 - This project Works on real-world messy data, not pre-cleaned datasets
 - Emphasizes data preprocessing, a critical data science skill
 - Designed for clarity, scalability, and usability
 - Demonstrates full pipeline: raw data → insights
 
-##🎯 Outcome
-- A complete system that:
-#### Converts unstructured social media data into structured, meaningful insights efficiently and reliably.
+## 🎯 Outcome
+- A complete system that
+--- Converts unstructured social media data into structured, meaningful insights efficiently and reliably.
+
+## ⚠️ Setup Instructions
+- Clone the repository
+- Replace dataset with your raw input
+- Run the parsing and cleaning scripts
+- Execute analysis modules
