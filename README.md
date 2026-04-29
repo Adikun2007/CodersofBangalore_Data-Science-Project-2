@@ -99,9 +99,10 @@ This project is a **data transformation and analysis pipeline** that:
      'Public Figure', 'Entrepreneur', 'Community',
      'Investor', 'Media', 'Blogger', 'Food & Drink', 
      'Digital creator', 'Nonprofit organization', 'Personal Blog', 
-     'Gamer', 'Alfabetização e Reforço Escolar', 'Unknown'}
-     No of people we have: 13
-     }
+     'Gamer', 'Alfabetização e Reforço Escolar', 'Unknown'
+    }
+```
+
 ## 📊 Insights Derived
 - High follower count does not always correlate with high posting activity
 - Media pages dominate in terms of content volume
