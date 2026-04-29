@@ -105,7 +105,7 @@ This project is a **data transformation and analysis pipeline** that:
 ### 🔥How many categories (Digital creators, etc do we have?)
 ```python
     {
-    'No of people we have: 34'
+    'No of people we have': 34
     }
 ```
 
