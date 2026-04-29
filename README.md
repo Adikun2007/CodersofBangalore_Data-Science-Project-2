@@ -18,14 +18,19 @@
 - Analyzed users following the most accounts
 - Categorized profiles (Digital Creator, Non-Profit, etc.)
 - Generated concise insights from raw data
-🧠 Key Highlights
-Strong focus on data preprocessing and cleaning
-Built for clarity, scalability, and real-world messy datasets
-Bridges the gap between raw data and actionable insights
-🛠️ Tech Stack
-Python
-JSON
-🎯 Outcome
 
-A complete pipeline that converts unstructured data into meaningful insights, showcasing core data science skills in data cleaning, parsing, and analysis.
+## 🧠 Key Highlights
+- Strong focus on data preprocessing and cleaning
+- Built for clarity, scalability, and real-world messy datasets
+- Bridges the gap between raw data and actionable insights
+
+## 🛠️ Tech Stack
+- Python
+- JSON
+- Data Analysis
+- Data Cleaning
+
+## 🎯 Outcome
+
+### A complete pipeline that converts unstructured data into meaningful insights, showcasing core data science skills in data cleaning, parsing, and analysis.
 
