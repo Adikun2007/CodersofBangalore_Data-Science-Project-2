@@ -83,13 +83,13 @@ This project is a **data transformation and analysis pipeline** that:
 ### 🔗 User Following the Most Accounts
 ```python
     {
-        "Maximum no of following:" startuphub_blr
+        "Maximum no of following:" bangalore_tech_bro
     }
 ```
 ### 🔥How many categories (Digital creators, etc do we have?)
 ```python
     {
-    'No of people we have': 34
+        "Number of categories:" 34
     }
 ```
 
