@@ -68,38 +68,22 @@ This project is a **data transformation and analysis pipeline** that:
 
 ### 🔥 User with Maximum Posts
 ```python
-    {'user_name': 'startuphub_blr', 'no_of_posts': 2300, 'no_of_followers': 45000, 
-     'no_of_following': 120, 'real_name': 'Startup Hub Bangalore', 
-     'type_of_page': 'Media', 
-     'user_bio': '🦄 News from the Silicon Valley of India\n
-     📢 Funding alerts, Hiring trends, and Drama\n
-     📩 DM for features\nstartuphub.blr/newsletter'
+    {
+        "Maximum no of posts:" startuphub_blr
     }
 ```
 
-### 👑 User with Maximum Follow
+### 👑 User with Maximum Followers
 ```python
     {
-     'user_name': '_anujsinghal',
-     'no_of_posts': 1785,
-     'no_of_followers': 681000,
-     'no_of_following': 248,
-     'real_name': 'Anuj Singhal',
-     'type_of_page': 'Digital creator',
-     'user_bio': 'Managing Editor, CNBC-Awaaz. Most trusted and followed biz anchor in India\nLet’s talk about finance and life\nContact: Singhalanuj1010@gmail.com\nhindi.cnbctv18.com/market-gurukul'
+        "Maximum no of folowers:" _anujsinghal
     }
 ```
 
 ### 🔗 User Following the Most Accounts
 ```python
     {
-     'user_name': 'bangalore_tech_bro',
-     'no_of_posts': 402,
-     'no_of_followers': 12500,
-     'no_of_following': 890,
-     'real_name': 'Rahul | HSR Hustler',
-     'type_of_page': 'Entrepreneur',
-     'user_bio': '🚀 Building the next Unicorn in Fintech\n☕ 3rd Wave Coffee addict\n💻 Python | React | AI\n📍 HSR Layout, BLR\nlinktr.ee/rahulbuilds'
+        "Maximum no of following:" startuphub_blr
     }
 ```
 ### 🔥How many categories (Digital creators, etc do we have?)
